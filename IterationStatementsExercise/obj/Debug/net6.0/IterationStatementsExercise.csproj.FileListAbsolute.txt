@@ -1,0 +1,15 @@
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\net6.0\IterationStatementsExercise.exe
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\net6.0\IterationStatementsExercise.deps.json
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\net6.0\IterationStatementsExercise.runtimeconfig.json
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\net6.0\IterationStatementsExercise.dll
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\bin\Debug\net6.0\IterationStatementsExercise.pdb
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.AssemblyInfo.cs
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.dll
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\refint\IterationStatementsExercise.dll
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.pdb
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\IterationStatementsExercise.genruntimeconfig.cache
+C:\Users\jenni\Desktop\Repos\IterationStatementsExercise\IterationStatementsExercise\obj\Debug\net6.0\ref\IterationStatementsExercise.dll
